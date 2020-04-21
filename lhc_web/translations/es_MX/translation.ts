@@ -12302,22 +12302,22 @@
     <name>chat/file</name>
     <message>
       <source>Uploading</source>
-      <translation type="unfinished"/>
+      <translation>Subiendo</translation>
     </message>
     <message>
       <source>Incorrect file type!</source>
-      <translation type="unfinished"/>
+      <translation>Tipo de Archivo Incorrecto!</translation>
     </message>
     <message>
       <source>File to big!</source>
-      <translation type="unfinished"/>
+      <translation/>El archivo es muy grande</translation>
     </message>
   </context>
   <context>
     <name>chat/notifications</name>
     <message>
       <source>Subscribing...</source>
-      <translation type="unfinished"/>
+      <translation>Suscribiendo</translation>
     </message>
   </context>
 </TS>
