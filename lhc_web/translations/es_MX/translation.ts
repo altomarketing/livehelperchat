@@ -12310,7 +12310,7 @@
     </message>
     <message>
       <source>File to big!</source>
-      <translation/>El archivo es muy grande</translation>
+      <translation/>El archivo es muy grande!</translation>
     </message>
   </context>
   <context>
